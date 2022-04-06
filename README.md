@@ -1,4 +1,4 @@
-## Hi, I'm Andrew! I'm a second year student studying Software Engineering at UC Irvine.
+## Hi, I'm Andrew! I'm studying Software Engineering at UC Irvine.
 
 ***About Me:***
 I am interested in learning more about web and mobile app development. This upcoming summer, I’m interning at JPMorgan Chase & Co. as a Software Engineering Summer Analyst. Next summer, I want to further my technical skills through software engineering internships.
