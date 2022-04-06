@@ -1,7 +1,10 @@
 ## Hi, I'm Andrew! I'm a second year student studying Software Engineering at UC Irvine.
 
+***Background:***
 I am interested in learning more about web and mobile app development. This upcoming summer, I’m interning at JPMorgan Chase & Co. as a Software Engineering Summer Analyst. Next, summer I want to further my technical skills through software engineering internships.
 
+
+***Contact:***
 Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/andrew-santoyo/)
 <!--
 **andrewsantoyo/andrewsantoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
