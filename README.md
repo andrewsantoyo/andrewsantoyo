@@ -1,5 +1,7 @@
 ## Hi, I'm Andrew! I'm majoring in Software Engineering at UC Irvine.
 
+I'm a student at UCI studying Software Engineering!
+
 ***About Me:***
 I am interested in learning more about web and mobile app development. This upcoming summer, I’m interning at JPMorgan Chase & Co. as a Software Engineering Summer Analyst. Next summer, I want to further my technical skills through software engineering internships.
 
