@@ -1,4 +1,4 @@
-## Hi, I'm Andrew! I'm majoring in Software Engineering at UC Irvine.
+## Hi, I'm Andrew! I'm majoring in Computer Science at UC Irvine.
 
 
 ***About Me:***
