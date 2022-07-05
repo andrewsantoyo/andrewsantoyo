@@ -2,7 +2,7 @@
 
 
 ***About Me:***
-I am interested in learning more about web and mobile app development. This upcoming summer, I’m interning at JPMorgan Chase & Co. as a Software Engineering Summer Analyst. Next summer, I want to further my technical skills through software engineering internships.
+I am interested in learning more about web development. This upcoming summer, I’m interning at JPMorgan Chase & Co. as a Software Engineering Summer Analyst. Next summer, I want to further my technical skills through software engineering internships.
 
 
 ***Contact:***
