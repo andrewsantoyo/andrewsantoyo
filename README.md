@@ -1,8 +1,7 @@
-## Hi, I'm Andrew! I'm majoring in Computer Science at UC Irvine.
-
+## Hi, I'm Andrew!
 
 ***About Me:***
-I'm interested in learning more about web development. This past summer, I interned at JPMorgan Chase & Co. as a Software Engineering Summer Analyst. Next summer, I want to further my technical skills through software engineering internships.
+I'm interested in learning more about web development and other software engineering roles. I've interned at JPMorgan Chase & Co. as a Software Engineering Summer Analyst and Google as Software Engineering Intern. Next summer, I want to further my technical skills through software engineering internships.
 
 
 ***Contact:***
