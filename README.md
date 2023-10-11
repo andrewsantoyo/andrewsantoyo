@@ -3,9 +3,8 @@
 ***About Me:***
 I'm interested in learning more about web development and other software engineering roles. I've interned at JPMorgan Chase & Co. as a Software Engineering Summer Analyst and Google as a Software Engineering Intern. Next summer, I want to further my technical skills through software engineering internships.
 
+- 🔭 I’m currently working with React.
 
-***Contact:***
-Let's get in touch! Find me on [LinkedIn](https://www.linkedin.com/in/andrew-santoyo/)
 <!--
 **andrewsantoyo/andrewsantoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
